@@ -12,3 +12,7 @@ dig google.com
 echo "_________________________"
 echo "\n"
 ifconfig -a | grep en0
+echo "_________________________"
+echo "\n"
+
+ls -RaklH /etc
